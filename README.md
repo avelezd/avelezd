@@ -3,6 +3,7 @@
 I am a data science and programming enthusiast, this is my lab, a space where I test machine learning tools using mainly python and R. 
 - 🔭 I’m currently working on traffic forecasting with time series and support vector regression models.
 - 🌱 I’m currently learning python for data science
+- 😄 I have been working for a while with python and R for data analytics.
 - ⚡ Feel free to complain
 
 #### Find me around the web :earth_americas: 
